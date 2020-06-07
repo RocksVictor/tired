@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    background-color: #03a1fc;
+}
+h3{
+    text-align: center;
+    font-size: 34px;
+    color: white;
+    text-shadow:2px 3px 3px black;
+    font-family: cursive;
+}
+#user_input{
+    margin-left: 33.8px;
+    padding-right: 20px;
+    border-radius: 4px;
+}
+.button{
+    border-style: none;
+    background-color: white;
+    color: black;
+    padding: 4.7px;
+    border-radius: 3px;
+    box-shadow:2px 3px black;
+}
+.button:hover{
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+}
+#card-all{
+    margin-top: 4.4%;
+    margin-left: 3.9%;
+}
+.root{
+    margin-right: 34%;
+}
